@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    color: gray;
+    font-family:Arial,Helvetica,sans-serif ;
+    font-size: 16px;
+    font-weight: bolder;
+    line-height: 25px;
+
+}
+.box1{
+
+    color: white;
+
+}
+.container1{
+     background-color: black;
+    width: 90%;
+    margin: auto;
+    border:2px red solid;
+    padding: 15px ;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.container1 h1{
+    font-family: Italic;
+    font-size: large;
+    font-language-override: initial;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    word-break: break-word;
+}
+.container2{
+    margin: 15px ;
+    padding: 20px;
+    border: 15px red dashed;
+
+
+}
+
